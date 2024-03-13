@@ -1,7 +1,6 @@
 - 👋 Hi, I’m yousef
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning how to deal with data, clean it, and find awesome and useful insights!
-- 💞️ I’m looking to collaborate on a project that i can learn from and also help in finishing it with my experience
+- 🌱 I’m always learning how to improve my skills in dealing with data, cleaning it, and finding awesome and useful insights!
 - 📫 How to reach me contact me at :yousefmousad@yahoo.com
 
 <!---
