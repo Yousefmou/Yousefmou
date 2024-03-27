@@ -1,5 +1,5 @@
 - 👋 Hi, I’m yousef
-- 👀 I’m interested in data analysis
+- 👀 I’m interested in data analytics
 - 🌱 I’m always learning how to improve my skills in dealing with data, cleaning it, and finding awesome and useful insights!
 - 📫 How to reach me contact me at :yousefmousad@yahoo.com
 
